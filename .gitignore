@@ -79,3 +79,5 @@ secrets.json
 # Windows
 .env.local.windows
 *.md
+
+/lib/generated/prisma
